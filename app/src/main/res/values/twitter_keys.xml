@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Again, you should NOT check your API key / secret into GitHub. I'm deliberately
+    doing it for our lecture app. -->
+    <string name="twitter_api_key">z8NEFv5MaQnqCgpLlABjnn9fP</string>
+    <string name="twitter_api_secret">UjILPi8MDkgo4TKRmZyVz8ij2GCFLlmhH9Tj9RhHapan5ehcSv</string>
+</resources>

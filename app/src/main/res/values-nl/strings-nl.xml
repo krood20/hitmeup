@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">hitmeup</string>
+    <string name="login">Log in</string>
+    <string name="signup">Inschrijven</string>
+    <string name="log_out">Uitloggen</string>
+    <string name="username">Gebruikersnaam</string>
+    <string name="password">Wachtwoord</string>
+    <string name="redopassword">Typ wachtwoord nogmaals</string>
+    <string name="twitter_status_fmt">Twitter-gebruiker: %s</string>
+    <string name="title_social_login">Zoeken of zoeken naar profielen</string>
+    <string name="title_qr">QR-codepagina</string>
+    <string name="title_scan">Scan codepagina</string>
+    <string name="signed_out">Uitgelogd</string>
+    <string name="follow">Volgen</string>
+
+
+    <!--    Can delete if this doesnt work-->
+    <string name="showing_code_in_fragment">Code in fragment weergegevent</string>
+    <string name="scan_qr_code">SCAN QR-CODE</string>
+    <string name="name">Naam</string>
+    <string name="empty">---</string>
+    <string name="site_name">Site naam</string>
+    <string name="scan_a_code">Scan een QR-code</string>
+    <string name="result_not_found">Resultaat niet gevonden</string>
+    <string name="show_scanner_from_fragment">Scanner uit fragment tonen</string>
+
+</resources>

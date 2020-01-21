@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">hitmeup</string>
+    <string name="login">Login</string>
+    <string name="signup">Sign Up</string>
+    <string name="log_out">Log Out</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="redopassword">Re-Enter Password</string>
+    <string name="twitter_status_fmt">Twitter User: %s</string>
+    <string name="title_social_login">Search or Scan For Profiles</string>
+    <string name="title_qr">QR Code Page</string>
+    <string name="title_scan">Scan Code Page</string>
+    <string name="signed_out">Signed Out</string>
+    <string name="follow">Follow</string>
+
+
+<!--    Can delete if this doesnt work-->
+    <string name="showing_code_in_fragment">Showing code in fragment</string>
+    <string name="scan_qr_code">SCAN QR CODE</string>
+    <string name="name">Name</string>
+    <string name="empty">---</string>
+    <string name="site_name">Site Name</string>
+    <string name="scan_a_code">Scan a QR Code</string>
+    <string name="result_not_found">Result Not Found</string>
+    <string name="show_scanner_from_fragment">Show Scanner From Fragment</string>
+</resources>

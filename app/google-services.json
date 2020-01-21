@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "621947157067",
+    "firebase_url": "https://hitmeup-b21ce.firebaseio.com",
+    "project_id": "hitmeup-b21ce",
+    "storage_bucket": "hitmeup-b21ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:621947157067:android:1e51f7c2f0378bc53b2bce",
+        "android_client_info": {
+          "package_name": "com.example.hitmeup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "621947157067-icfbjbhl7ealcsa0qq6qa9gm90e480vt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAC1NtF30c66J4Uu2LLNsQMnPLo9IVrA3o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "621947157067-icfbjbhl7ealcsa0qq6qa9gm90e480vt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
